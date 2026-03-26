@@ -1,4 +1,4 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AtgE24pYhZHB2BrJrRm3VYMZU0OE4Qnw#scrollTo=tcW50xmH7kuY)
 # Medical Misinformation Detection using NLP
 
 ## Project Overview
